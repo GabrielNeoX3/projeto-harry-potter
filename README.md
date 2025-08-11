@@ -42,22 +42,22 @@ This is a web project inspired by the **Harry Potter** universe. It presents the
 ## 📷 Demonstrações | Previews
 
 ### 🏰 Hogwarts  
-![tlou-1](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-1.jpg?raw=true)
+<img width="1903" height="945" alt="Captura de tela 2025-08-11 081759" src="https://github.com/user-attachments/assets/11a4cf4b-7828-4d8d-bfb2-1633b4c65e39" />
 
 ### ⚔️ Confronto entre Harry e Voldemort | Harry vs Voldemort  
-![tlou-2](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-2.jpg?raw=true)
+<img width="1899" height="944" alt="Captura de tela 2025-08-11 081812" src="https://github.com/user-attachments/assets/28ad786f-a592-4ab8-a9c8-c1637a9e977b" />
 
 ### 🪞 Reflexo do bem e do mal | Good and Evil Reflection  
-![tlou-3](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-3.jpg?raw=true)
+<img width="1898" height="935" alt="Captura de tela 2025-08-11 081823" src="https://github.com/user-attachments/assets/ab92951a-2cb9-43be-b758-8715a6ce66ea" />
 
 ### 🧙‍♂️ Aventura, magia e amizade | Adventure, Magic and Friendship  
-![tlou-4](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-4.jpg?raw=true)
+<img width="1892" height="924" alt="Captura de tela 2025-08-11 083356" src="https://github.com/user-attachments/assets/c125975c-75ca-4d78-b5e6-6dae09e3c304" />
 
 ### 🏃‍♂️ Fuga na floresta | Forest Escape  
-![tlou-5](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-5.jpg?raw=true)
+<img width="1886" height="927" alt="Captura de tela 2025-08-11 083422" src="https://github.com/user-attachments/assets/035461d3-d833-4ffa-b458-1fc42b87d47e" />
 
 ### 🔮 Batalha final | Final Battle  
-![tlou-6](https://github.com/GabrielNeoX3/projeto-harry-potter/blob/main/src/imagens/tlou-6.jpg?raw=true)
+<img width="1893" height="920" alt="Captura de tela 2025-08-11 081849" src="https://github.com/user-attachments/assets/60bd6f2a-ed1c-481e-b987-d821caa4c58a" />
 
 ---
 
