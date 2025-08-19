@@ -1,4 +1,4 @@
-# 🧙‍♂️ Página Interativa - Harry Potter | Interactive Page - Harry Potter
+# 🧙‍♂️ Página Interativa - Harry Potter | Interactive Page - Harry Potter |
 
 ![HTML](https://img.shields.io/badge/HTML-44.9%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-37.3%25-blue)
